@@ -1,4 +1,4 @@
 scrumBuddy
 ==========
 
-Productivity App
+Agile Productivity App
